@@ -82,7 +82,7 @@ Existen leyes estrictas que rigen el manejo y el contenido de los registros clí
 2. Confidencialidad y protección de datos; 
 3. El acceso de los pacientes a sus registros médicos.
 
-Hemos resumido los siguientes recordatorios de [investigaciones publicadas] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5297955/) , pero asegúrese siempre de conocer los requisitos legales relevantes para su contexto. 
+Hemos resumido los siguientes recordatorios de [investigaciones publicadas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5297955/) , pero asegúrese siempre de conocer los requisitos legales relevantes para su contexto. 
 
 
 
