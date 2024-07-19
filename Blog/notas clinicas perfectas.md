@@ -121,11 +121,11 @@ Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pued
 1. Sea claro y conciso
 2. Abordar las inquietudes de manera directa y respetuosa.
 3. Utilice un lenguaje de apoyo
-4.Incluya a los pacientes en el proceso de redacción de notas
-5.Anime a los pacientes a leer sus notas
-6.Solicitar y utilizar la retroalimentación
-7.Familiarícese con la forma de modificar notas.
-8.Puede encontrar una recopilación de consejos y ejemplos de esas sugerencias en este kit de herramientas . 
+4. Incluya a los pacientes en el proceso de redacción de notas
+5. Anime a los pacientes a leer sus notas
+6. Solicitar y utilizar la retroalimentación
+7. Familiarícese con la forma de modificar notas.
+8. Puede encontrar una recopilación de consejos y ejemplos de esas sugerencias en este kit de herramientas . 
 
 
 
