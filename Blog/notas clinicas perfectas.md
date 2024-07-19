@@ -97,15 +97,35 @@ También conviene incluir un registro de las decisiones tomadas y las acciones a
 En la era digital, la confidencialidad significa que usted no comparte información del paciente sin consentimiento y que todo su equipo de atención toma las medidas necesarias para proteger los datos del paciente.
 
 En Venezuela no existen requisitos especificos para la confidencialidad y proteccion de datos medicos,las normas varían según el país,en este post 
-usaremos como referencia la [Norma de privacidad de HIPAA de Estados Unidos](https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf).Trabaje con su equipo de atención para asegurarse de que está tomando las medidas necesarias para proteger los datos de los pacientes y abordar los posibles riesgos de seguridad de la TI de salud. La Oficina del Coordinador Nacional de Información de Salud tiene un [enfoque útil de siete pasos para implementar un proceso de gestión de seguridad](https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf) . 
+usaremos como referencia la [Norma de privacidad de HIPAA de Estados Unidos](https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf).Trabaje con su equipo de atención para asegurarse de que está tomando las medidas necesarias para proteger los datos de los pacientes y abordar los posibles riesgos de seguridad de la Tecnologia de informacion (TI) de salud. La Oficina del Coordinador Nacional de Información de Salud en Estados Unidos tiene un [enfoque útil de siete pasos para implementar un proceso de gestión de seguridad](https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf) . 
 
-Las normas varían según el país, pero los profesionales de los Estados Unidos querrán revisar la Norma de privacidad de HIPAA . 
 
 ### Acceso del paciente a los registros médicos
 
-Los pacientes tienen derecho a acceder a sus registros médicos y las leyes están cambiando para proteger este derecho de manera más completa. En los EE. UU., una nueva norma federal de privacidad dio a los pacientes acceso a las notas clínicas a partir de 2021. Eso significa que los médicos y los hospitales deben brindarles a los pacientes un acceso fácil a su información médica, incluidas las notas y los resultados de las pruebas, de una manera totalmente automatizada y de bajo costo. 
+Los pacientes tienen derecho a acceder a sus registros médicos y las leyes están cambiando para proteger este derecho de manera más completa. En los EE. UU., una nueva [norma federal de privacidad](https://www.healthit.gov/topic/information-blocking) dio a los pacientes acceso a las notas clínicas a partir de 2021. Eso significa que los médicos y los hospitales deben brindarles a los pacientes un acceso fácil a su información médica, incluidas las notas y los resultados de las pruebas, de una manera totalmente automatizada y de bajo costo. 
 
 Como se analiza más adelante, este requisito legal implica que las “notas clínicas perfectas” pueden parecer diferentes hoy que en el pasado.
+
+## Notas clínicas abiertas
+
+Debido al rezago que hay en Venezuela en la utilizacion de todas estas herramientas que mencionamos en estos posts estamos escribiendo notas que estan mas referidas a como es el mercado norteamericano de Tecnologia de informacion medica.
+
+Nuestra app de [zanahoria Tech]() esta programada tomando en cuenta las normas del mercado em USA considerando seguridad,privacidad,acceso seguro a la informacion.
+
+El principal criterio cuando se habla de este tipo de aplicaciones es que los datos son del paciente y por lo tanto debe tener acceso a su expediente clinico ,historia clinica o registros medicos electronicos(RME)
+
+En 2021, una ONC promulgó la Cures Rule , que exige que todos los hospitales y médicos de los EE. UU. pongan a disposición de los pacientes las notas clínicas completas. Para algunos proveedores, esta victoria en materia de derechos de los pacientes no cambió nada porque muchas organizaciones de atención médica ya habían adoptado una política de "notas abiertas ". De hecho, antes de la Cures Rule, 250 organizaciones de atención médica ya ofrecían notas abiertas a más de 50 millones de pacientes registrados en sus portales. 
+
+Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pueden querer ajustar el contenido o el tono de sus notas. En un artículo titulado “Su paciente está leyendo su nota”, publicado en [The American Journal of Medicine](https://pubmed.ncbi.nlm.nih.gov/27288854/) , los autores sugieren siete consejos para implementar notas abiertas en la práctica clínica:
+
+Sea claro y conciso
+Abordar las inquietudes de manera directa y respetuosa.
+Utilice un lenguaje de apoyo
+Incluya a los pacientes en el proceso de redacción de notas
+Anime a los pacientes a leer sus notas
+Solicitar y utilizar la retroalimentación
+Familiarícese con la forma de modificar notas.
+Puede encontrar una recopilación de consejos y ejemplos de esas sugerencias en este kit de herramientas . 
 
 
 
