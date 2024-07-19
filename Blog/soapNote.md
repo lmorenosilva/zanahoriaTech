@@ -51,9 +51,9 @@ Plan: El médico recomienda tomar ibuprofeno de venta libre, descansar y aplicar
 
 **Subjetivo:**
 
--El dolor de cabeza comenzó esta mañana.
+- El dolor de cabeza comenzó esta mañana.
 
--Se describe como un dolor constante y sordo en la parte frontal y los lados de la cabeza.
+- Se describe como un dolor constante y sordo en la parte frontal y los lados de la cabeza.
 
 - No hay ningún detonante obvio
 
@@ -61,5 +61,75 @@ Plan: El médico recomienda tomar ibuprofeno de venta libre, descansar y aplicar
 
 - Sin náuseas ni vómitos.
 
+**Objetivo:**
 
+- Signos vitales dentro de límites normales
+
+- Sensibilidad a la palpación en las sienes y regiones frontales.
+
+- No hay signos evidentes de inflamación o trauma.
+
+**Evaluación:**
+
+- 28F con dolor de cabeza tensional
+
+**Plan:**
+
+- Ibuprofeno de venta libre
+
+- Descansar
+
+- Técnicas de manejo del estrés
+
+- Cita de seguimiento en 2 semanas.
+
+
+## Nota de progreso para pacientes ambulatorios de SOAP de medicina familiar
+
+**Identificación del paciente:** 
+ Mujer 35 años, por lo demás sano, desde casa
+
+**Subjetivo:**
+
+La paciente es una mujer de 35 años que presenta dolor de garganta desde hace 4 días. Refiere que la tos es productiva con esputo verdoso y que el dolor de garganta es doloroso y le dificulta comer y beber. Niega que tenga dificultad para respirar, pero sí refiere dolores corporales, náuseas y disminución del apetito. No presenta tos. La paciente refiere antecedentes de alergias estacionales, pero no antecedentes de neumonía o bronquitis.
+
+**Objetivo:**
+
+Presión arterial: 120/80 mmHg, frecuencia cardíaca: 72 lpm, frecuencia cardíaca: 18, temperatura: 38,3 °C
+
+El paciente está alerta y orientado. La mucosa oral está húmeda y se visualizan manchas blancas en la garganta. La palpación del cuello muestra notas linfáticas hinchadas y dolorosas. Petequias en el paladar. El examen pulmonar revela sonidos respiratorios claros bilaterales con algunos ronquidos audibles en el lóbulo inferior izquierdo. La garganta está eritematosa e hinchada con exudados presentes en las amígdalas. El abdomen está blando y no duele.
+
+La prueba rápida de estreptococo realizada hoy es positiva.
+
+Evaluación: Mujer de 35 años que presentan clínicamente una infección de las vías respiratorias superiores, probablemente faringitis por Streptococcus.
+
+Plan:
+
+- Prescribir amoxicilina 500 mg por vía oral tres veces al día durante 10 días en caso de sospecha de infección bacteriana.
+
+- El criterio CENTOR es 4, por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
+
+- Se le recomienda al paciente que descanse, beba mucho líquido y utilice un humidificador para aliviar los síntomas del dolor de garganta.
+
+- Se recomienda al paciente que realice un seguimiento en 3 a 5 días o antes si los síntomas empeoran.
+
+- Seguimiento: Llamada telefónica una vez que se obtengan los resultados del frotis de garganta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota de centor criteria
+Centor criteria
+
+The Centor criteria are a set of criteria which may be used to identify the likelihood of a bacterial infection in patients complaining of a sore throat.
 
