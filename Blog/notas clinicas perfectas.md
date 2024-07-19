@@ -84,6 +84,29 @@ Existen leyes estrictas que rigen el manejo y el contenido de los registros clí
 
 Hemos resumido los siguientes recordatorios de [investigaciones publicadas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5297955/) , pero asegúrese siempre de conocer los requisitos legales relevantes para su contexto. 
 
+“Verba volant, scripta manent” (Las palabras se las lleva el viento,lo que esta escrito permanece) Tito Cayo
+
+### Exactitud y legibilidad del contenido de los registros clínicos
+
+Desde una perspectiva legal, hay algunos elementos que debe asegurarse de incluir en una nota clínica. El primero son los hallazgos clínicos relevantes, es decir, su diagnóstico profesional y las pruebas que respaldan su plan.
+
+También conviene incluir un registro de las decisiones tomadas y las acciones acordadas, así como quién tomó las decisiones y estuvo de acuerdo con los pasos a seguir. Por último, registre el plan y cualquier otra información que se le haya proporcionado al paciente. Recuerde que, desde una perspectiva legal, si algo no se registra en las notas clínicas, no sucedió.
+
+### Confidencialidad y protección de datos
+
+En la era digital, la confidencialidad significa que usted no comparte información del paciente sin consentimiento y que todo su equipo de atención toma las medidas necesarias para proteger los datos del paciente.
+
+En Venezuela no existen requisitos especificos para la confidencialidad y proteccion de datos medicos,las normas varían según el país,en este post 
+usaremos como referencia la [Norma de privacidad de HIPAA de Estados Unidos](https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf).Trabaje con su equipo de atención para asegurarse de que está tomando las medidas necesarias para proteger los datos de los pacientes y abordar los posibles riesgos de seguridad de la TI de salud. La Oficina del Coordinador Nacional de Información de Salud tiene un [enfoque útil de siete pasos para implementar un proceso de gestión de seguridad](https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf) . 
+
+Las normas varían según el país, pero los profesionales de los Estados Unidos querrán revisar la Norma de privacidad de HIPAA . 
+
+### Acceso del paciente a los registros médicos
+
+Los pacientes tienen derecho a acceder a sus registros médicos y las leyes están cambiando para proteger este derecho de manera más completa. En los EE. UU., una nueva norma federal de privacidad dio a los pacientes acceso a las notas clínicas a partir de 2021. Eso significa que los médicos y los hospitales deben brindarles a los pacientes un acceso fácil a su información médica, incluidas las notas y los resultados de las pruebas, de una manera totalmente automatizada y de bajo costo. 
+
+Como se analiza más adelante, este requisito legal implica que las “notas clínicas perfectas” pueden parecer diferentes hoy que en el pasado.
+
 
 
 
