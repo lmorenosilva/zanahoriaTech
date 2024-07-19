@@ -1,6 +1,6 @@
 # Cómo escribir una nota SOAP
 
-![colorful notes]()
+![colorful notes](https://github.com/lmorenosilva/zanahoriaTech/blob/main/ColorfulNotes.jpeg#:~:text=soapNote.md-,ColorfulNotes,-.jpeg)
 
 
 
