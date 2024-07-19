@@ -1,1 +1,3 @@
-#Una guía paso a paso para tomar notas clínicas perfectas
+# Una guía paso a paso para tomar notas clínicas perfectas
+
+[Doctor Tomando notas]()
