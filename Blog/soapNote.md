@@ -1,6 +1,10 @@
 # Cómo escribir una nota SOAP
+![Professional Medical Consultation](https://github.com/user-attachments/assets/0b071aed-4757-443d-952e-21877b07e7bf)
 
 ![colorful notes](https://github.com/lmorenosilva/zanahoriaTech/blob/main/ColorfulNotes.jpeg#:~:text=soapNote.md-,ColorfulNotes,-.jpeg)
+
+![Professional Collaboration in a Modern Office](https://github.com/user-attachments/assets/ad98b427-b10e-40da-806e-07ff8438bcb7)
+
 
 
 
