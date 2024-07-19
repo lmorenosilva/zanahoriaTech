@@ -36,11 +36,11 @@ Estas preguntas son tan básicas que es fácil pasarlas por alto. Sin embargo, l
 - **Nombre del paciente :**
 ¿el nombre que aparece en la historia clínica coincide con el del paciente que examinó? Confirmar la identidad del paciente es especialmente importante en un contexto digital, donde hacer clic en el botón equivocado o abrir la ventana equivocada puede ser fácil. 
 
--**Fecha y hora :**  ¿Incluyó la fecha y la hora correctas de su encuentro? La hora es fundamental en situaciones de urgencia o de cuidados intensivos, pero también puede ser fácil pasarla por alto si está poniéndose al día con las notas clínicas al final del día.
+- **Fecha y hora :**  ¿Incluyó la fecha y la hora correctas de su encuentro? La hora es fundamental en situaciones de urgencia o de cuidados intensivos, pero también puede ser fácil pasarla por alto si está poniéndose al día con las notas clínicas al final del día.
 
-**-Encabezado :** incluya un encabezado descriptivo si varios proveedores pueden editar la nota. Por ejemplo, “Nota de progreso de cirugía” brinda un contexto importante si se encuentra en un hospital o en un entorno ambulatorio multidisciplinario.
+- **Encabezado :** incluya un encabezado descriptivo si varios proveedores pueden editar la nota. Por ejemplo, “Nota de progreso de cirugía” brinda un contexto importante si se encuentra en un hospital o en un entorno ambulatorio multidisciplinario.
 
-**-Firma :** Asegúrese de firmar cada entrada con su nombre y título.
+- **Firma :** Asegúrese de firmar cada entrada con su nombre y título.
 
 ## Cómo escribir una nota SOAP
 
