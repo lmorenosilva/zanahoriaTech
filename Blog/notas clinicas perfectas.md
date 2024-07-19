@@ -47,16 +47,16 @@ Comience su nota clínica resumiendo brevemente los principales problemas que pr
 
 SOAP son las siglas en inglés de Subjetivo, Objetivo, Evaluacion y Plan. Es un acrónimo útil para recordar los elementos principales de cualquier nota clínica.
 
-Subjetivo
+### Subjetivo
 En esta sección se describe la historia del paciente tal como usted la entiende. Los proveedores suelen utilizar un formato narrativo para describir las principales quejas del paciente, incluidos el inicio, la cronología, la calidad y la gravedad. Documente lo que el paciente le dice sobre cómo se siente y lo que sucedió, en sus propias palabras, utilizando citas directas según corresponda. 
 
-Objetivo
+### Objetivo
 Utilice la sección Objetivo para documentar los hechos medibles u objetivos sobre el estado del paciente. Estos hechos podrían incluir cómo observa al paciente (“El paciente parece pálido y con malestar…”), los signos vitales u otros hallazgos de su examen físico (“Sibilancias espiratorias generalizadas en la auscultación del tórax…”) y cualquier resultado de laboratorio relevante. 
 
-Evaluación
+### Evaluación
 La evaluación es su diagnóstico médico principal o una interpretación de lo que significan “S” y “O”. Si alguien ya ha hecho un diagnóstico, comente si el paciente está mejorando o empeorando clínicamente. La evaluación debe resumir una lista completa de diagnósticos para pacientes hospitalizados cada 1 o 2 días. 
 
-Plan
+### Plan
 Documente un plan de tratamiento preciso, es decir, lo que sucedió como resultado de su visita al paciente. El plan podría incluir más investigaciones, procedimientos de derivación, nuevos medicamentos u otras terapias prescritas.
 
 
