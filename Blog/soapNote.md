@@ -1,6 +1,6 @@
 ## En este post 
 
-### I. ¿Qué es una nota SOAP? {#What}
+### I. ¿Qué es una nota SOAP? {#What-id}
 
 
 
