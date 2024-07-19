@@ -66,7 +66,7 @@ Si bien el método SOAP es un formato de inicio útil, estructurar la documentac
 
 A continuación se ofrecen algunos consejos adicionales para una excelente documentación clínica:
 
-**-Realice las anotaciones lo antes posible después de brindar atención.** La documentación rápida reduce el riesgo de olvidar detalles clave. También garantiza que otros miembros del equipo sepan sobre los cambios en la condición del paciente o el plan de tratamiento. Si bien esto no siempre es posible, haga lo mejor que pueda. Si completa las notas clínicas de manera constante mucho después de las visitas de los pacientes, hable con sus colegas sobre cómo mejorar su flujo de trabajo de documentación .
+**- Realice las anotaciones lo antes posible después de brindar atención.** La documentación rápida reduce el riesgo de olvidar detalles clave. También garantiza que otros miembros del equipo sepan sobre los cambios en la condición del paciente o el plan de tratamiento. Si bien esto no siempre es posible, haga lo mejor que pueda. Si completa las notas clínicas de manera constante mucho después de las visitas de los pacientes, hable con sus colegas sobre cómo mejorar su flujo de trabajo de documentación .
 
 **-Sea minucioso.** Recuerde que el objetivo principal de la documentación es la comunicación. Los futuros lectores tendrán un contexto diferente al 
 suyo, por lo que debe incluir todos los detalles esenciales de la forma más clara posible.
