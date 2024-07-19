@@ -60,6 +60,22 @@ La evaluación es su diagnóstico médico principal o una interpretación de lo 
 Documente un plan de tratamiento preciso, es decir, lo que sucedió como resultado de su visita al paciente. El plan podría incluir más investigaciones, procedimientos de derivación, nuevos medicamentos u otras terapias prescritas.
 
 
+## Consejos para una mejor documentación clínica
+
+Si bien el método SOAP es un formato de inicio útil, estructurar la documentación de esta manera no garantiza una nota clínica perfecta. 
+
+A continuación se ofrecen algunos consejos adicionales para una excelente documentación clínica:
+
+**-Realice las anotaciones lo antes posible después de brindar atención.** La documentación rápida reduce el riesgo de olvidar detalles clave. También garantiza que otros miembros del equipo sepan sobre los cambios en la condición del paciente o el plan de tratamiento. Si bien esto no siempre es posible, haga lo mejor que pueda. Si completa las notas clínicas de manera constante mucho después de las visitas de los pacientes, hable con sus colegas sobre cómo mejorar su flujo de trabajo de documentación .
+
+**-Sea minucioso.** Recuerde que el objetivo principal de la documentación es la comunicación. Los futuros lectores tendrán un contexto diferente al 
+suyo, por lo que debe incluir todos los detalles esenciales de la forma más clara posible.
+
+**-Sea breve.** La brevedad no solo sirve para que su documentación sea eficaz, sino que también ayuda a su equipo de atención. Otros proveedores necesitan su nota para comunicar rápidamente información importante con la menor cantidad posible de detalles superfluos.
+
+**-Sea claro.** Evite utilizar abreviaturas o términos ambiguos. Si modifica o revisa una nota clínica, elimine la información tachándola y firme/fechando la corrección. 
+
+
 
 
 
