@@ -16,7 +16,7 @@ Las notas SOAP se utilizan en las historias clínicas para proporcionar una docu
 
 Una nota SOAP es un método de documentación utilizado por los proveedores de atención médica, incluidos asistentes médicos, médicos y enfermeras, para escribir información sobre la condición de un paciente.
 
-** SOAP notes (Subjective, Objective, Assessment, Plan) 
+**SOAP notes (Subjective, Objective, Assessment, Plan)**
 
 Es un acrónimo que significa:
 
