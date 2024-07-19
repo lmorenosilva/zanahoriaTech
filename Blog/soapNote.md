@@ -39,13 +39,13 @@ Además, una buena nota SOAP debe ser legible, organizada y formateada de manera
 
 #### a) Nota SOAP en forma narrativa :
 
-“Subjetivo: El paciente refiere un dolor de cabeza que comenzó esta mañana. El dolor se describe como un dolor constante y sordo en la parte frontal y los costados de la cabeza, sin un desencadenante evidente. El paciente refiere una disminución del apetito y dificultad para concentrarse, pero niega náuseas o vómitos.
+**Subjetivo:** El paciente refiere un dolor de cabeza que comenzó esta mañana. El dolor se describe como un dolor constante y sordo en la parte frontal y los costados de la cabeza, sin un desencadenante evidente. El paciente refiere una disminución del apetito y dificultad para concentrarse, pero niega náuseas o vómitos.
 
-Objetivo: Los signos vitales se encuentran dentro de los límites normales. El examen físico revela dolor a la palpación en las sienes y la región frontal, pero no hay signos evidentes de inflamación o traumatismo.
+**Objetivo:** Los signos vitales se encuentran dentro de los límites normales. El examen físico revela dolor a la palpación en las sienes y la región frontal, pero no hay signos evidentes de inflamación o traumatismo.
 
-Evaluación: Mujer de 28 años presenta cefalea tensional.
+**Evaluación:**  Mujer de 28 años presenta cefalea tensional.
 
-Plan: El médico recomienda tomar ibuprofeno de venta libre, descansar y aplicar técnicas de control del estrés. El médico también programa una cita de seguimiento en dos semanas para evaluar la respuesta del paciente al tratamiento.
+**Plan:** El médico recomienda tomar ibuprofeno de venta libre, descansar y aplicar técnicas de control del estrés. El médico también programa una cita de seguimiento en dos semanas para evaluar la respuesta del paciente al tratamiento.
 
 #### b) SOAP note in jot note format:
 
@@ -107,7 +107,7 @@ Plan:
 
 - Prescribir amoxicilina 500 mg por vía oral tres veces al día durante 10 días en caso de sospecha de infección bacteriana.
 
-- El criterio CENTOR es 4, por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
+- El criterio [CENTOR es 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9438850/), por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
 
 - Se le recomienda al paciente que descanse, beba mucho líquido y utilice un humidificador para aliviar los síntomas del dolor de garganta.
 
