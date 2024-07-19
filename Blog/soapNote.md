@@ -1,3 +1,10 @@
+## En este post 
+
+### I. ¿Qué es una nota SOAP? {#What}
+
+
+
+
 # Cómo escribir una nota SOAP
 ![Professional Medical Consultation](https://github.com/user-attachments/assets/0b071aed-4757-443d-952e-21877b07e7bf)
 
