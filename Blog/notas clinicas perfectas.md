@@ -22,8 +22,10 @@ Como médico ocupado, la documentación de alta calidad puede convertirse en una
 
 Hay tres razones fundamentales para esforzarse por conseguir unas notas clínicas perfectas. 
 
-**1. Comunicación:** el historial clínico de un paciente es una forma de comunicación. Una buena documentación informa a los futuros proveedores, incluido usted mismo, sobre lo que sucedió y cómo se llegó a un plan de tratamiento. Es la forma más importante de facilitar una atención al paciente de alta calidad. 
+**1. Comunicación:** el historial clínico de un paciente es una forma de comunicación. Una buena documentación informa a los futuros proveedores, incluido usted mismo, sobre lo que sucedió y cómo se llegó a un plan de tratamiento. Es la forma más importante de facilitar una atención al paciente de alta calidad.
+
 **2.Aspectos legales:** el historial médico es un documento legal que puede ser objeto de un minucioso análisis en caso de mala praxis. Por lo tanto, es fundamental documentar las conversaciones delicadas sobre los límites de la atención, el pronóstico y las decisiones sobre el tratamiento. 
+
 **3.Reembolso:** las notas clínicas son un documento de servicio. Ya sea que trabaje por cuenta propia o en un hospital, la documentación médica respalda el reembolso. Una documentación clara, completa y codificada con precisión se traduce en las líneas de costos e ingresos de su empresa o de su empleador.
 
 Siempre que cambie el estilo o el flujo de trabajo de su documentación, es útil recordar por qué escribe notas clínicas en primer lugar. Considere cómo la información que decide incluir (o no incluir) afecta la eficacia de los registros médicos como forma de comunicación, documento legal y documento de servicio.
