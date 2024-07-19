@@ -107,7 +107,7 @@ Plan:
 
 - Prescribir amoxicilina 500 mg por vía oral tres veces al día durante 10 días en caso de sospecha de infección bacteriana.
 
-- El criterio [CENTOR ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9438850/), es 4 por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
+- El criterio [CENTOR ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9438850/) es 4,por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
 
 - Se le recomienda al paciente que descanse, beba mucho líquido y utilice un humidificador para aliviar los síntomas del dolor de garganta.
 
