@@ -75,6 +75,15 @@ suyo, por lo que debe incluir todos los detalles esenciales de la forma más cla
 
 **-Sea claro.** Evite utilizar abreviaturas o términos ambiguos. Si modifica o revisa una nota clínica, elimine la información tachándola y firme/fechando la corrección. 
 
+## Consideraciones jurídicas básicas
+Existen leyes estrictas que rigen el manejo y el contenido de los registros clínicos, ya sea que se encuentre en los Venezuela o en otro país. En general, estas leyes existen para respaldar tres objetivos: 
+
+1. Exactitud y legibilidad del contenido de los registros clínicos;
+2. Confidencialidad y protección de datos; 
+3. El acceso de los pacientes a sus registros médicos.
+
+Hemos resumido los siguientes recordatorios de [investigaciones publicadas] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5297955/) , pero asegúrese siempre de conocer los requisitos legales relevantes para su contexto. 
+
 
 
 
