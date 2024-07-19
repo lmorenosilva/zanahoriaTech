@@ -119,8 +119,7 @@ En 2021, una ONC promulgó la Cures Rule , que exige que todos los hospitales y 
 Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pueden querer ajustar el contenido o el tono de sus notas. En un artículo titulado “Su paciente está leyendo su nota”, publicado en [The American Journal of Medicine](https://pubmed.ncbi.nlm.nih.gov/27288854/) , los autores sugieren siete consejos para implementar notas abiertas en la práctica clínica:
 
 1.Sea claro y conciso
-2.Abordar las inquietudes de manera directa y respetuosa. 
-
+2.Abordar las inquietudes de manera directa y respetuosa.
 3.Utilice un lenguaje de apoyo
 4.Incluya a los pacientes en el proceso de redacción de notas
 5.Anime a los pacientes a leer sus notas
