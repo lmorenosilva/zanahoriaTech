@@ -116,6 +116,29 @@ Plan:
 - Seguimiento: Llamada telefónica una vez que se obtengan los resultados del frotis de garganta.
 
 
+## Consejos para redactar buenas notas SOAP
+
+- **Sea conciso:** mantenga sus notas SOAP breves y concisas. Evite detalles innecesarios o información irrelevante.
+
+- ** Utilice terminología adecuada:** utilice terminología médica estándar y abreviaturas para garantizar la coherencia y la precisión.
+
+- **Sea objetivo:** céntrese en los hechos, en lugar de en opiniones o interpretaciones. Registre los hallazgos objetivos del examen físico y de 
+  cualquier prueba o procedimiento.
+
+- **Sea claro:** asegúrese de que sus notas SOAP sean claras y fáciles de entender para otros profesionales de la salud. Use un lenguaje sencillo y 
+    evite la jerga médica o los términos técnicos que pueden resultar desconocidos para otras personas. Tenga en cuenta que algunos pacientes tienen 
+    acceso a sus registros electrónicos y pueden consultar sus notas en caso de que hayan olvidado lo que se discutió durante el encuentro.
+
+- **Organice sus notas:** utilice un formato uniforme para todas sus notas SOAP y mantenga cada sección concisa y centrada. Asegúrese de que las 
+  secciones subjetiva, objetiva, de evaluación y de planificación estén claramente etiquetadas y sean fáciles de encontrar.
+
+- **Verifique la precisión:** antes de enviar sus notas SOAP, asegúrese de revisarlas para comprobar que sean precisas, claras e integrales. 
+    Verifique que se haya incluido toda la información relevante y que el plan de atención sea claro y apropiado.
+
+- **Respete las leyes de privacidad:** asegúrese siempre de que sus notas SOAP cumplan con las leyes y regulaciones de privacidad de la Ley de 
+    Portabilidad y Responsabilidad de Seguros de Salud (PHIPA), y solo incluyan información que sea necesaria para la atención del paciente. Evite 
+    incluir información confidencial o sensible que no sea relevante para el tratamiento del paciente.
+
 
 
 
