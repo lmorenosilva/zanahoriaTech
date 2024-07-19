@@ -107,7 +107,7 @@ Plan:
 
 - Prescribir amoxicilina 500 mg por vía oral tres veces al día durante 10 días en caso de sospecha de infección bacteriana.
 
-- El criterio [CENTOR es 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9438850/), por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
+- El criterio [CENTOR ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9438850/), es 4 por lo que hoy se realizó una prueba rápida de antígeno y un hisopado de garganta para descartar mononucleosis infecciosa.
 
 - Se le recomienda al paciente que descanse, beba mucho líquido y utilice un humidificador para aliviar los síntomas del dolor de garganta.
 
@@ -128,8 +128,5 @@ Plan:
 
 
 
-Nota de centor criteria
-Centor criteria
 
-The Centor criteria are a set of criteria which may be used to identify the likelihood of a bacterial infection in patients complaining of a sore throat.
 
