@@ -119,7 +119,7 @@ El principal criterio cuando se habla de este tipo de aplicaciones es que los da
 
 En 2021, una ONC promulgó la Cures Rule , que exige que todos los hospitales y médicos de los EE. UU. pongan a disposición de los pacientes las notas clínicas completas. Para algunos proveedores, esta victoria en materia de derechos de los pacientes no cambió nada porque muchas organizaciones de atención médica ya habían adoptado una política de "notas abiertas ". De hecho, antes de la Cures Rule, 250 organizaciones de atención médica ya ofrecían notas abiertas a más de 50 millones de pacientes registrados en sus portales. 
 
-Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pueden querer ajustar el contenido o el tono de sus notas. En un artículo titulado “Su paciente está leyendo su nota”, publicado en [The American Journal of Medicine](https://pubmed.ncbi.nlm.nih.gov/27288854/) , los autores sugieren siete consejos para implementar notas abiertas en la práctica clínica:
+Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pueden querer ajustar el contenido o el tono de sus notas. En un artículo titulado “Su paciente está leyendo su nota”, publicado en [The American Journal of Medicine](https://www.amjmed.com/article/S0002-9343(16)30548-4/fulltext) , los autores sugieren siete consejos para implementar notas abiertas en la práctica clínica:
 
 1. Sea claro y conciso
 2. Abordar las inquietudes de manera directa y respetuosa.
