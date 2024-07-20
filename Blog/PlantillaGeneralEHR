@@ -1,5 +1,5 @@
 Las plantillas de EHR estructuradas pueden variar según el software y la especialidad específicos, pero aquí hay algunos ejemplos generales:
-1. Historial de enfermedad actual (HPI):
+**1. Historial de enfermedad actual (HPI):**
 Queja principal: esta sección permite la selección de una lista de quejas comunes o una entrada de texto libre para problemas menos frecuentes.
 Inicio: opciones de selección para el momento de la queja (p. ej., aguda, crónica).
 Duración: selección de duraciones predefinidas (p. ej., días, semanas) o una entrada de texto libre para duraciones específicas.
