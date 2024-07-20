@@ -132,9 +132,50 @@ Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pued
 
 Consejos para pacientes de [como leer notas abiertas y como usar las notas abiertas](https://howtouse.opennotes.org/how-to-read-an-open-note/)
 
+### Beneficios de las notas abiertas
 
+¿Sabía usted que…?
+los sistemas de salud tienen la obligación de compartir sus notas con usted
+leer sus notas puede ayudarle a gestionar su atención médica
+leer sus notas puede ayudarle a tomar más control de su salud
+los estudios demuestran que la comunicación abierta con su médico o el personal de enfermería le beneficia a usted y a quienes colaboran en su atención
 
+## Cómo mantener eficiente la documentación clínica
 
+Sería negligente de nuestra parte no enfatizar que las notas clínicas perfectas son notas que se completan de manera eficiente. 
+
+En una época en la que la mayoría de los médicos dedican más de 15 horas semanales a la documentación clínica y otros trámites, el agotamiento médico constituye un riesgo grave. 
+
+A continuación se ofrecen siete consejos para completar las notas clínicas a tiempo : 
+
+**1. Aproveche las habilidades de los miembros de su equipo**
+No es necesario que documentes todo tú mismo. Involucra estratégicamente a otros miembros del equipo para asegurar que el tiempo de todos se use de manera inteligente.
+
+2. Completar la mayor parte de la documentación en la sala.
+Muchos proveedores han descubierto que dictar notas clínicas durante las visitas de los pacientes ahorra tiempo y proporciona beneficios adicionales. 
+
+Por ejemplo, al hablar con un paciente sobre su historial médico o plan de tratamiento, resumir en voz alta puede ser una forma de dictar y de involucrar al paciente, mejorar la comprensión y garantizar la precisión. Considere completar la mayor parte de la documentación en la sala de exámenes, ya sea que dicte o escriba a máquina . 
+
+3. Conozca las pautas de documentación E/M
+Ahorre tiempo siguiendo las pautas y documentando únicamente lo que sea médicamente necesario para completar la visita de hoy. Por ejemplo, un nivel de servicio 99213, el código que utilizan el 61 por ciento de las veces los médicos de familia que atienden a pacientes de Medicare, no requiere una revisión integral de los sistemas ni un examen completo.
+
+4. Utilice las funciones esenciales del EHR
+Las plantillas , por ejemplo, son útiles para las visitas de rutina en las que las consultas clínicas son habituales. La mecanografía manual (o el dictado móvil ) puede ser la opción más rápida en situaciones complejas o cambiantes. Pero si es temporada de gripe, ahorre tiempo creando una plantilla básica de vacuna contra la gripe.
+
+Vea más consejos sobre cómo optimizar su flujo de trabajo de EHR .
+
+5. Las notas clínicas perfectas no serán perfectas
+El historial clínico electrónico puede ser un agujero negro para los perfeccionistas y los que se empeñan en marcar casillas. Sepa qué es lo que importa y deje el resto en paz. No es necesario marcar todas las casillas ni completar todas las categorías en cada visita. 
+
+6. Olvídate del “opus”
+Recuerda que la nota clínica no es una biografía. En la sección del plan de la nota, sé claro y conciso, incluyendo sólo lo necesario para que la próxima persona que la lea pueda entender tu razonamiento. 
+
+7. Cronometra tu tiempo
+Utilice un cronómetro y observe cuánto tiempo le lleva completar una nota. Con esta línea de base, establezca una meta para disminuir el tiempo que le lleva escribir la nota de cada paciente.
+
+Recuerde que una documentación clínica excelente es el resultado de una formación inicial y una educación continua. A medida que cambia la atención sanitaria, también cambiará la forma de documentarla. Revise periódicamente su documentación y el flujo de trabajo de la historia clínica electrónica y realice los ajustes necesarios.
+
+En resumen, las notas clínicas perfectas cumplen con los requisitos clínicos y legales básicos y se adaptan a su flujo de trabajo clínico.
 
 
 
