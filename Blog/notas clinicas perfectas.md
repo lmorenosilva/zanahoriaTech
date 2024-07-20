@@ -156,26 +156,22 @@ Muchos proveedores han descubierto que dictar notas clínicas durante las visita
 
 Por ejemplo, al hablar con un paciente sobre su historial médico o plan de tratamiento, resumir en voz alta puede ser una forma de dictar y de involucrar al paciente, mejorar la comprensión y garantizar la precisión. Considere completar la mayor parte de la documentación en la sala de exámenes, ya sea que dicte o escriba a máquina . 
 
-**4. Utilice las funciones esenciales del EHR**
+**3. Utilice las funciones esenciales del EHR**
 [Las plantillas](https://mobius.md/2023/06/21/what-are-ehr-templates/) , por ejemplo, son útiles para las visitas de rutina en las que las consultas clínicas son habituales. La mecanografía manual (o el dictado móvil ) puede ser la opción más rápida en situaciones complejas o cambiantes. Pero si es temporada de gripe, ahorre tiempo creando una plantilla básica de vacuna contra la gripe.
 
-Vea más consejos sobre [ómo optimizar su flujo de trabajo de EHR .](https://mobius.md/2024/06/24/how-to-optimize-your-ehr-workflow/)
+Vea más consejos sobre [cómo optimizar su flujo de trabajo de EHR .](https://mobius.md/2024/06/24/how-to-optimize-your-ehr-workflow/)
 
-5. Las notas clínicas perfectas no serán perfectas
+**4. Las notas clínicas perfectas no serán perfectas**
+   
 El historial clínico electrónico puede ser un agujero negro para los perfeccionistas y los que se empeñan en marcar casillas. Sepa qué es lo que importa y deje el resto en paz. No es necesario marcar todas las casillas ni completar todas las categorías en cada visita. 
 
-6. Olvídate del “opus”
+**5. Olvídate de escribir una novela**
 Recuerda que la nota clínica no es una biografía. En la sección del plan de la nota, sé claro y conciso, incluyendo sólo lo necesario para que la próxima persona que la lea pueda entender tu razonamiento. 
 
-7. Cronometra tu tiempo
+**6. Cronometra tu tiempo**
 Utilice un cronómetro y observe cuánto tiempo le lleva completar una nota. Con esta línea de base, establezca una meta para disminuir el tiempo que le lleva escribir la nota de cada paciente.
 
 Recuerde que una documentación clínica excelente es el resultado de una formación inicial y una educación continua. A medida que cambia la atención sanitaria, también cambiará la forma de documentarla. Revise periódicamente su documentación y el flujo de trabajo de la historia clínica electrónica y realice los ajustes necesarios.
 
 En resumen, las notas clínicas perfectas cumplen con los requisitos clínicos y legales básicos y se adaptan a su flujo de trabajo clínico.
-
-
-
-
-
 
