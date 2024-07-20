@@ -151,18 +151,15 @@ A continuación se ofrecen siete consejos para completar las notas clínicas a t
 **1. Aproveche las habilidades de los miembros de su equipo**
 No es necesario que documentes todo tú mismo. Involucra estratégicamente a otros miembros del equipo para asegurar que el tiempo de todos se use de manera inteligente.
 
-2. Completar la mayor parte de la documentación en la sala.
+**2. Completar la mayor parte de la documentación en el consultorio.**
 Muchos proveedores han descubierto que dictar notas clínicas durante las visitas de los pacientes ahorra tiempo y proporciona beneficios adicionales. 
 
 Por ejemplo, al hablar con un paciente sobre su historial médico o plan de tratamiento, resumir en voz alta puede ser una forma de dictar y de involucrar al paciente, mejorar la comprensión y garantizar la precisión. Considere completar la mayor parte de la documentación en la sala de exámenes, ya sea que dicte o escriba a máquina . 
 
-3. Conozca las pautas de documentación E/M
-Ahorre tiempo siguiendo las pautas y documentando únicamente lo que sea médicamente necesario para completar la visita de hoy. Por ejemplo, un nivel de servicio 99213, el código que utilizan el 61 por ciento de las veces los médicos de familia que atienden a pacientes de Medicare, no requiere una revisión integral de los sistemas ni un examen completo.
+**4. Utilice las funciones esenciales del EHR**
+[Las plantillas](https://mobius.md/2023/06/21/what-are-ehr-templates/) , por ejemplo, son útiles para las visitas de rutina en las que las consultas clínicas son habituales. La mecanografía manual (o el dictado móvil ) puede ser la opción más rápida en situaciones complejas o cambiantes. Pero si es temporada de gripe, ahorre tiempo creando una plantilla básica de vacuna contra la gripe.
 
-4. Utilice las funciones esenciales del EHR
-Las plantillas , por ejemplo, son útiles para las visitas de rutina en las que las consultas clínicas son habituales. La mecanografía manual (o el dictado móvil ) puede ser la opción más rápida en situaciones complejas o cambiantes. Pero si es temporada de gripe, ahorre tiempo creando una plantilla básica de vacuna contra la gripe.
-
-Vea más consejos sobre cómo optimizar su flujo de trabajo de EHR .
+Vea más consejos sobre [ómo optimizar su flujo de trabajo de EHR .](https://mobius.md/2024/06/24/how-to-optimize-your-ehr-workflow/)
 
 5. Las notas clínicas perfectas no serán perfectas
 El historial clínico electrónico puede ser un agujero negro para los perfeccionistas y los que se empeñan en marcar casillas. Sepa qué es lo que importa y deje el resto en paz. No es necesario marcar todas las casillas ni completar todas las categorías en cada visita. 
