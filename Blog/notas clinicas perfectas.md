@@ -128,7 +128,10 @@ Sin embargo, ahora que las notas abiertas son la norma, algunos proveedores pued
 5. Anime a los pacientes a leer sus notas
 6. Solicitar y utilizar la retroalimentación
 7. Familiarícese con la forma de modificar notas.
-8. Puede encontrar una recopilación de consejos y ejemplos de esas sugerencias en este [kit de herramientas](https://www.opennotes.org/wp-content/uploads/2016/02/Klein_notes-tip_toolkit.pdf) . 
+8. Puede encontrar una recopilación de consejos y ejemplos de esas sugerencias en este [kit de herramientas](https://www.opennotes.org/wp-content/uploads/2016/02/Klein_notes-tip_toolkit.pdf) .
+
+Consejos para pacientes de [como leer notas abiertas y como usar las notas abiertas](https://howtouse.opennotes.org/how-to-read-an-open-note/)
+
 
 
 
