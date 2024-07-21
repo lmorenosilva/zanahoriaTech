@@ -26,9 +26,9 @@ Si identifica formas de optimizar el flujo de trabajo de su historia clínica el
 
 ### 3. Agilizar la documentación clínica
 
-Un estudio publicado en Annals of Family Medicine reveló que los médicos de atención primaria pasan aproximadamente seis horas diarias en el historial clínico electrónico, incluidos casi 90 minutos después de salir del consultorio. Agilizar la [documentación clínica](https://github.com/lmorenosilva/zanahoriaTech/blob/main/Blog/notas%20clinicas%20perfectas.md) es fundamental para controlar la jornada laboral y recuperar tiempo con los pacientes.
+Un estudio publicado en Annals of Family Medicine reveló que los médicos de atención primaria pasan aproximadamente seis horas diarias en el historial clínico electrónico, incluidos casi [90 minutos](https://www.annfammed.org/content/15/5/419.full) después de salir del consultorio. Agilizar la [documentación clínica](https://github.com/lmorenosilva/zanahoriaTech/blob/main/Blog/notas%20clinicas%20perfectas.md) es fundamental para controlar la jornada laboral y recuperar tiempo con los pacientes.
 
-Además de la optimización general del flujo de trabajo, la documentación médica asistida por computadora (CAPD, por sus siglas en inglés) se está volviendo popular. Por ejemplo, los teléfonos inteligentes con software de transcripción médica ahora pueden facilitar el dictado en vivo en el punto de atención. O podría usar un escriba médico con inteligencia artificial para redactar el 80% de las notas de su visita automáticamente. 
+Además de la optimización general del flujo de trabajo, la documentación médica asistida por computadora (CAPD, por sus siglas en inglés) se está volviendo popular. Por ejemplo, los teléfonos inteligentes con software de transcripción médica ahora pueden facilitar el dictado en vivo en el punto de atención. O podría usar un [transcriptor médico con inteligencia artificial]() para redactar el 80% de las notas de su visita automáticamente. Transcripción
 
 Ya sea que adopte CAPD u otras mejoras, invertir en mejoras de la documentación clínica por adelantado dará sus frutos rápidamente en tiempo ahorrado y reembolsos completos.
 
