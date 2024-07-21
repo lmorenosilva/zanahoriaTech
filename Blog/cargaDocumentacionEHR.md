@@ -2,7 +2,7 @@
 
 Los médicos y otros profesionales clínicos dicen que pasan demasiado tiempo documentando detalles sobre los pacientes y no el suficiente tiempo tratándolos.
 
-La Asociación Estadounidense de Informática Médica (AMIA) publicó datos de su grupo de trabajo inaugural 25x5 “TrendBurden: Pulse Survey on Excessive Documentation Burden for Health Professionals”, como parte de la Conferencia de Informática Clínica AMIA 2024 de este mes en Minneapolis, Minnesota.
+La Asociación Estadounidense de Informática Médica (AMIA) publicó datos de su grupo de trabajo inaugural 25x5 “TrendBurden: Pulse Survey on Excessive Documentation Burden for Health Professionals”, como parte de la Conferencia de Informática Clínica AMIA 2024 realizada el mes de Junio en Minneapolis, Minnesota.
 
 Los resultados no fueron buenos. Un [80% de los médicos encuestados estuvo de acuerdo](https://brand.amia.org/m/3756a1d9ddf0ea58/original/PowerPoint-Presentation.pdf) con la afirmación de que “el esfuerzo o el tiempo que me lleva completar las tareas de documentación impiden la atención al paciente”.
 
