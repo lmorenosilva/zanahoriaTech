@@ -7,7 +7,7 @@ A continuación, se ofrecen algunos consejos para mejorar la calidad de sus nota
 
 ## Estructura y organización
 
-- **Adhiérase a un formato consistente:- utilice una estructura estandarizada (por ejemplo , SOAP, SBAR) para garantizar la coherencia y la claridad
+- **Adhiérase a un formato consistente:** utilice una estructura estandarizada (por ejemplo , SOAP, SBAR) para garantizar la coherencia y la claridad
 
 - Priorizar la información: centrarse en los hallazgos más relevantes y recientes.
 
