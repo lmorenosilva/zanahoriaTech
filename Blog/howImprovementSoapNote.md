@@ -46,3 +46,5 @@ Plan: Consultar con el cirujano para evaluación y posible apendicectomía. Admi
 Si sigue estas pautas, podrá mejorar significativamente la calidad de sus notas de progreso diarias, mejorar la atención al paciente y facilitar una comunicación eficaz dentro del equipo de atención médica.
 
 ¿Le gustaría centrarse en un área específica de sus notas de progreso, como hallazgos subjetivos u objetivos?
+
+Puede revisar este articulo si quiere ampliar [Tu nota a tu manera](https://academic.oup.com/pmj/article/99/1171/492/7192084?login=false#407685992)
