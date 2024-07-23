@@ -1,4 +1,4 @@
-# Cómo mejorar sus notas de progreso diario como residente
+# Cómo mejorar sus notas SOAP de progreso diario como residente
 
 Redactar notas de progreso claras, concisas e informativas es fundamental para una atención eficaz al paciente y para la comunicación
 entre el equipo de atención médica. 
@@ -9,9 +9,9 @@ A continuación, se ofrecen algunos consejos para mejorar la calidad de sus nota
 
 - **Adhiérase a un formato consistente:** utilice una estructura estandarizada (por ejemplo , SOAP, SBAR) para garantizar la coherencia y la claridad
 
-- Priorizar la información: centrarse en los hallazgos más relevantes y recientes.
+- **Priorizar la información:** centrarse en los hallazgos más relevantes y recientes.
 
--Encabezados claros: utilice encabezados claros para las diferentes secciones (por ejemplo , subjetivo, objetivo, evaluación, plan).
+- **Encabezados claros:** utilice encabezados claros para las diferentes secciones (por ejemplo , subjetivo, objetivo, evaluación, plan).
 Contenido
 Subjetivo: Documentar con precisión las quejas y preocupaciones del paciente en sus propias palabras.
 Objetivo: Informar de forma clara y concisa los hallazgos del examen físico, los signos vitales, los resultados de laboratorio y los estudios diagnósticos.
