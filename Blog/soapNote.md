@@ -92,7 +92,7 @@ Además, una buena nota SOAP debe ser legible, organizada y formateada de manera
 
 **Evaluación:**
 
-- 28F con dolor de cabeza tensional
+- Mijer de 28 años con dolor de cabeza tensional
 
 **Plan:**
 
