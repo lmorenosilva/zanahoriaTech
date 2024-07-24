@@ -8,9 +8,6 @@
 
 ![colorful notes](https://github.com/lmorenosilva/zanahoriaTech/blob/main/ColorfulNotes.jpeg#:~:text=soapNote.md-,ColorfulNotes,-.jpeg)
 
-![Professional Collaboration in a Modern Office](https://github.com/user-attachments/assets/ad98b427-b10e-40da-806e-07ff8438bcb7)
-
-
 
 
 Las notas SOAP se utilizan en las historias clínicas para proporcionar una documentación completa y estandarizada de la visita de un paciente, y los proveedores de atención médica las utilizan para una comunicación y coordinación de la atención efectivas.
@@ -33,7 +30,7 @@ Subjetivo significa personal y no medible.Esta sección incluye la descripción 
 
 Objetivo significa medible y observable. Esta sección incluye observaciones y datos recopilados por el proveedor de atención médica, como signos vitales, hallazgos del examen físico y resultados de pruebas.La sección O es para hechos y datos. La sección **O** NO es el lugar para opiniones, conexiones, interpretaciones, etc.
 
-### Assessment(Evaluación):
+### A-Assessment(Evaluación):
 
 Esta sección incluye la evaluación que hace el proveedor de atención médica sobre la condición del paciente, incluido un diagnóstico o diagnóstico diferencial.
 
@@ -67,42 +64,6 @@ Además, una buena nota SOAP debe ser legible, organizada y formateada de manera
 **Evaluación:**  Mujer de 28 años presenta cefalea tensional.
 
 **Plan:** El médico recomienda tomar ibuprofeno de venta libre, descansar y aplicar técnicas de control del estrés. El médico también programa una cita de seguimiento en dos semanas para evaluar la respuesta del paciente al tratamiento.
-
-#### b) SOAP note in jot note format:
-
-**Subjetivo:**
-
-- El dolor de cabeza comenzó esta mañana.
-
-- Se describe como un dolor constante y sordo en la parte frontal y los lados de la cabeza.
-
-- No hay ningún detonante obvio
-
-- Disminución del apetito y dificultad para concentrarse.
-
-- Sin náuseas ni vómitos.
-
-**Objetivo:**
-
-- Signos vitales dentro de límites normales
-
-- Sensibilidad a la palpación en las sienes y regiones frontales.
-
-- No hay signos evidentes de inflamación o trauma.
-
-**Evaluación:**
-
-- Mijer de 28 años con dolor de cabeza tensional
-
-**Plan:**
-
-- Ibuprofeno de venta libre
-
-- Descansar
-
-- Técnicas de manejo del estrés
-
-- Cita de seguimiento en 2 semanas.
 
 
 ## Nota de progreso para pacientes ambulatorios de SOAP de medicina familiar
@@ -159,18 +120,3 @@ Plan:
 - **Respete las leyes de privacidad:** asegúrese siempre de que sus notas SOAP cumplan con las leyes y regulaciones de privacidad de la Ley de 
     Portabilidad y Responsabilidad de Seguros de Salud (PHIPA), y solo incluyan información que sea necesaria para la atención del paciente. Evite 
     incluir información confidencial o sensible que no sea relevante para el tratamiento del paciente.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
