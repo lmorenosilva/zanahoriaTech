@@ -17,7 +17,7 @@ como ayuda cognitiva y un índice potencial para recuperar información para el 
 
 Los cuatro encabezados de una nota SOAP son Subjetivo, Objetivo, Evaluación y Plan. Cada encabezado se describe a continuación.
 
-**Subjetivo**
+### Subjetivo
 
 Este es el primer encabezado de la nota SOAP. La documentación que se incluye bajo este encabezado proviene de las experiencias “subjetivas”, las opiniones o los sentimientos personales de un paciente o de alguien cercano a él. En el ámbito hospitalario, aquí se incluye información provisional. Esta sección proporciona contexto para la evaluación y el plan.
 
@@ -63,7 +63,8 @@ Medicamentos actuales, alergias
 Los medicamentos actuales y las alergias pueden aparecer en las secciones Subjetivo u Objetivo. Sin embargo, es importante que, junto con cualquier medicamento documentado, se incluya el nombre del medicamento, la dosis, la vía de administración y la frecuencia. 
 
 Ejemplo: Motrin 600 mg por vía oral cada 4 a 6 horas durante 5 días
-Objetivo
+
+### Objetivo
 
 En esta sección se documentan los datos objetivos del encuentro con el paciente, que incluyen:
 
@@ -75,7 +76,7 @@ Otros datos de diagnóstico
 Reconocimiento y revisión de la documentación de otros clínicos.
 Un error común es distinguir entre síntomas y signos. Los síntomas son la descripción subjetiva del paciente y deben documentarse bajo el encabezado subjetivo, mientras que un signo es un hallazgo objetivo relacionado con el síntoma asociado informado por el paciente. Un ejemplo de esto es un paciente que dice que tiene "dolor de estómago", que es un síntoma, documentado bajo el encabezado subjetivo. En comparación con "sensibilidad abdominal a la palpación", un signo objetivo documentado bajo el encabezado objetivo.
 
-Evaluación
+###  Assessment o Evaluación en esapañol
 
 Esta sección documenta la síntesis de la evidencia “subjetiva” y “objetiva” para llegar a un diagnóstico. Se trata de la evaluación del estado del paciente a través del análisis del problema, la posible interacción de los problemas y los cambios en el estado de los problemas. Los elementos incluyen lo siguiente.
 
