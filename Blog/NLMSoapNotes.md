@@ -1,29 +1,27 @@
 
 # Como elaborar una Nota SOAP
 
+La nota **SOAP** es un acronimo (Subjective, Objective, Assessment, Plan,por sus siglas en Ingles)
 
-Las notas SOAP es un acronimo  subjetiva, objetiva, de evaluación y plan (SOAP, por sus siglas en inglés) es un acrónimo que representa un método de documentación 
-ampliamente utilizado por los proveedores de atención médica. La nota SOAP es una forma en que los trabajadores de la salud pueden documentar
-de manera estructurada y organizada. 
+Este acronico representa un método de documentación ampliamente utilizado por los proveedores de atención médica. La nota SOAP es una forma en que los trabajadores de la salud pueden documentar de manera estructurada y organizada. 
 
-El [Dr.Larry Weed](https://www.oslerproject.com/post/el-origen-de-la-historia-cl%C3%ADnica-orientada-por-problemas-y-el-m%C3%A9todo-soap) teorizó sobre esta nota SOAP estructural ampliamente adoptada hace casi 50 años. Recuerda a los médicos las tareas específicas y 
-al mismo tiempo, proporciona un marco para evaluar la información. También proporciona un marco cognitivo para el razonamiento clínico.
+El [Dr.Larry Weed](https://www.oslerproject.com/post/el-origen-de-la-historia-cl%C3%ADnica-orientada-por-problemas-y-el-m%C3%A9todo-soap) teorizó sobre esta nota SOAP estructural ampliamente adoptada hace casi 50 años. Recuerda a los médicos las tareas específicas y al mismo tiempo, 
+proporciona un marco para evaluar la información. También proporciona un marco cognitivo para el razonamiento clínico.
+
 La nota SOAP ayuda a los trabajadores de la salud a utilizar su razonamiento clínico para evaluar, diagnosticar y tratar a un paciente en 
 función de la información que proporcionan. Las notas SOAP son una pieza esencial de información sobre el estado de salud del paciente, así 
 como un documento de comunicación entre profesionales de la salud. La estructura de la documentación es una lista de verificación que sirve
 como ayuda cognitiva y un índice potencial para recuperar información para el aprendizaje a partir del registro.
 
-
-Función
-Estructura
+## Estructura
 
 Los cuatro encabezados de una nota SOAP son Subjetivo, Objetivo, Evaluación y Plan. Cada encabezado se describe a continuación.
 
-Subjetivo
+**Subjetivo**
 
 Este es el primer encabezado de la nota SOAP. La documentación que se incluye bajo este encabezado proviene de las experiencias “subjetivas”, las opiniones o los sentimientos personales de un paciente o de alguien cercano a él. En el ámbito hospitalario, aquí se incluye información provisional. Esta sección proporciona contexto para la evaluación y el plan.
 
-Queja principal (CC)
+Queja principal (CC) 
 
 El CC o problema que presenta es el que informa el paciente. Puede ser un síntoma, una afección, un diagnóstico previo u otra declaración breve que describa el motivo por el que el paciente se presenta hoy. El CC es similar al título de un artículo, lo que permite al lector hacerse una idea de lo que implicará el resto del documento.
 
