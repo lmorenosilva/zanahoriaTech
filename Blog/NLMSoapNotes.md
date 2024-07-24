@@ -32,7 +32,9 @@ Ejemplos: dolor en el pecho, disminución del apetito, dificultad para respirar.
 
 Sin embargo, un paciente puede tener múltiples quejas y su primera queja puede no ser la más importante. Por lo tanto, los médicos deben alentar a los pacientes a que mencionen todos sus problemas, prestando atención a los detalles para descubrir el problema más importante. Es necesario identificar el problema principal para realizar un diagnóstico eficaz y eficiente.
 
-Historial de enfermedad actual (HPI)
+Historial de enfermedad actual o [HPI History of Present Illness](https://meded.ucsd.edu/clinicalmed/history.html) por sus siglas en ingles  
+
+
 
 El HPI comienza con una declaración de apertura simple de una línea que incluye la edad del paciente, el sexo y el motivo de la visita.
 
