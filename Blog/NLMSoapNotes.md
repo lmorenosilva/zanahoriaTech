@@ -19,30 +19,37 @@ Los cuatro encabezados de una nota SOAP son Subjetivo, Objetivo, Evaluación y P
 
 ### Subjetivo
 
-Este es el primer encabezado de la nota SOAP. La documentación que se incluye bajo este encabezado proviene de las experiencias “subjetivas”, las opiniones o los sentimientos personales de un paciente o de alguien cercano a él. En el ámbito hospitalario, aquí se incluye información provisional. Esta sección proporciona contexto para la evaluación y el plan.
+Este es el primer encabezado de la nota SOAP.Subjetivo significa personal y no medible.La documentación que se incluye bajo este encabezado 
+proviene de las experiencias “subjetivas”, las opiniones o los sentimientos personales de un paciente o de alguien cercano a él. En el ámbito hospitalario, aquí se incluye información provisional. 
 
-Queja principal (CC) 
+Esta sección proporciona contexto para la evaluación y el plan.
 
-El CC o problema que presenta es el que informa el paciente. Puede ser un síntoma, una afección, un diagnóstico previo u otra declaración breve que describa el motivo por el que el paciente se presenta hoy. El CC es similar al título de un artículo, lo que permite al lector hacerse una idea de lo que implicará el resto del documento.
+**Queja Principal (QP)**
+
+La **QP** o problema que presenta el paciente. Puede ser un síntoma, una afección, un diagnóstico previo u otra declaración breve que describa el motivo por el que el paciente se presenta hoy. La **QP** es similar al título de un artículo, lo que permite al lector hacerse una idea de lo que implicará el resto del documento.
 
 Ejemplos: dolor en el pecho, disminución del apetito, dificultad para respirar.
-Sin embargo, un paciente puede tener múltiples CC y su primera queja puede no ser la más importante. Por lo tanto, los médicos deben alentar a los pacientes a que mencionen todos sus problemas, prestando atención a los detalles para descubrir el problema más importante. Es necesario identificar el problema principal para realizar un diagnóstico eficaz y eficiente.
+
+Sin embargo, un paciente puede tener múltiples quejas y su primera queja puede no ser la más importante. Por lo tanto, los médicos deben alentar a los pacientes a que mencionen todos sus problemas, prestando atención a los detalles para descubrir el problema más importante. Es necesario identificar el problema principal para realizar un diagnóstico eficaz y eficiente.
 
 Historial de enfermedad actual (HPI)
 
 El HPI comienza con una declaración de apertura simple de una línea que incluye la edad del paciente, el sexo y el motivo de la visita.
 
 Ejemplo: Mujer de 47 años que presenta dolor abdominal.
-Esta es la sección en la que el paciente puede explicar su queja principal. Un acrónimo que se utiliza a menudo para organizar el HPI es el denominado “OLDCARTS”:
 
-Inicio: ¿Cuándo empezó el CC?
-Ubicación: ¿Dónde está ubicado el CC?
-Duración: ¿Cuánto tiempo lleva vigente el CC?
-Caracterización: ¿Cómo describe el paciente el CC?
-Factores atenuantes y agravantes: ¿Qué hace que el CC sea mejor y peor?
-Radiación: ¿El CC se mueve o permanece en un lugar?
-Factor temporal: ¿La CC es peor (o mejor) en un momento determinado del día?
-Gravedad: Utilizando una escala del 1 al 10, siendo 1 lo mínimo y 10 lo peor, ¿cómo califica el paciente la CC?
+Esta es la sección en la que el paciente puede explicar su queja principal. Un acrónimo que se utiliza a menudo para organizar el HPI es el denominado “OLDCARTS
+“OLDCARTS” es un acronimo de Onset(inicio en español),Loc
+
+- **Inicio:** ¿Cuándo empezó el CC?
+- **Localizacion:** ¿Dónde está ubicado la  **QP**?
+- **Duración:** ¿Cuánto tiempo lleva vigente la **QP**?
+- **Caracterización:** ¿Cómo describe el paciente la **QP**?
+- **Factores atenuantes y agravantes:** ¿Qué hace que la **QP** sea mejor y peor?
+- **Radiación:** ¿El **QP** o el dolor se mueve o permanece en un lugar?
+- **Factor temporal:** ¿La **QP** es peor (o mejor) en un momento determinado del día?
+- **Gravedad:** Utilizando una escala del 1 al 10, siendo 1 lo mínimo y 10 lo peor, ¿cómo califica el paciente la **QP**?
+  
 Es importante que los médicos se centren en la calidad y claridad de las notas de sus pacientes, en lugar de incluir detalles excesivos.
 
 Historia
