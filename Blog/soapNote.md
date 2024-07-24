@@ -25,13 +25,21 @@ Una nota SOAP es un método de documentación utilizado por los proveedores de a
 
 Es un acrónimo que significa:
 
-S-Subjetivo : Subjetivo significa personal y no medible.Esta sección incluye la descripción que hace el propio paciente de sus síntomas y quejas.
+### S-Subjetivo :
 
-Objetivo: Esta sección incluye observaciones y datos recopilados por el proveedor de atención médica, como signos vitales, hallazgos del examen físico y resultados de pruebas.
+Subjetivo significa personal y no medible.Esta sección incluye la descripción que hace el propio paciente de sus síntomas y quejas.
 
-Evaluación: Esta sección incluye la evaluación que hace el proveedor de atención médica sobre la condición del paciente, incluido un diagnóstico o diagnóstico diferencial.
+### O-Objetivo:
 
-Plan: Esta sección incluye las recomendaciones del proveedor de atención médica para el tratamiento, el manejo y el seguimiento.
+Objetivo significa medible y observable. Esta sección incluye observaciones y datos recopilados por el proveedor de atención médica, como signos vitales, hallazgos del examen físico y resultados de pruebas.La sección O es para hechos y datos. La sección **O** NO es el lugar para opiniones, conexiones, interpretaciones, etc.
+
+### Assessment(Evaluación):
+
+Esta sección incluye la evaluación que hace el proveedor de atención médica sobre la condición del paciente, incluido un diagnóstico o diagnóstico diferencial.
+
+### P-Plan: 
+
+Esta sección incluye las recomendaciones del proveedor de atención médica para el tratamiento, el manejo y el seguimiento.
 
 ## II. ¿Qué debe transmitir una buena nota SOAP?
 
