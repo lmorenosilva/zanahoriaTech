@@ -17,7 +17,7 @@ como ayuda cognitiva y un índice potencial para recuperar información para el 
 
 Los cuatro encabezados de una nota SOAP son Subjetivo, Objetivo, Evaluación y Plan. Cada encabezado se describe a continuación.
 
-### Subjetivo
+### S-Subjetivo
 
 Este es el primer encabezado de la nota SOAP.Subjetivo significa personal y no medible.La documentación que se incluye bajo este encabezado 
 proviene de las experiencias “subjetivas”, las opiniones o los sentimientos personales de un paciente o de alguien cercano a él. En el ámbito hospitalario, aquí se incluye información provisional. 
@@ -32,48 +32,54 @@ Ejemplos: dolor en el pecho, disminución del apetito, dificultad para respirar.
 
 Sin embargo, un paciente puede tener múltiples quejas y su primera queja puede no ser la más importante. Por lo tanto, los médicos deben alentar a los pacientes a que mencionen todos sus problemas, prestando atención a los detalles para descubrir el problema más importante. Es necesario identificar el problema principal para realizar un diagnóstico eficaz y eficiente.
 
-Historial de enfermedad actual o [HPI History of Present Illness](https://meded.ucsd.edu/clinicalmed/history.html) por sus siglas en ingles  
-
-
+Historial de enfermedad actual o [HPI History of Present Illness](https://meded.ucsd.edu/clinicalmed/history.html) por sus siglas en ingles 
 
 El HPI comienza con una declaración de apertura simple de una línea que incluye la edad del paciente, el sexo y el motivo de la visita.
 
 Ejemplo: Mujer de 47 años que presenta dolor abdominal.
 
 Esta es la sección en la que el paciente puede explicar su queja principal. Un acrónimo que se utiliza a menudo para organizar el HPI es el denominado “OLDCARTS
-“OLDCARTS” es un acronimo de Onset(inicio en español),Loc
+“OLDCARTS” es un acronimo de Onset(inicio en español),Location,Duration,Characterization,Alleviating and Aggravating factors,Radiation,
+Temporal factor,Severity
 
-- **Inicio:** ¿Cuándo empezó el CC?
+- **Inicio:** ¿Cuándo empezó la **QP**?
 - **Localizacion:** ¿Dónde está ubicado la  **QP**?
 - **Duración:** ¿Cuánto tiempo lleva vigente la **QP**?
 - **Caracterización:** ¿Cómo describe el paciente la **QP**?
 - **Factores atenuantes y agravantes:** ¿Qué hace que la **QP** sea mejor y peor?
-- **Radiación:** ¿El **QP** o el dolor se mueve o permanece en un lugar?
+- **Radiación:** ¿La **QP** o el dolor se mueve o permanece en un lugar?
 - **Factor temporal:** ¿La **QP** es peor (o mejor) en un momento determinado del día?
 - **Gravedad:** Utilizando una escala del 1 al 10, siendo 1 lo mínimo y 10 lo peor, ¿cómo califica el paciente la **QP**?
   
 Es importante que los médicos se centren en la calidad y claridad de las notas de sus pacientes, en lugar de incluir detalles excesivos.
 
-Historia
+**Historia**
 
-Historial médico: condiciones médicas actuales o pasadas pertinentes
-Historial quirúrgico: intente incluir el año de la cirugía y el cirujano si es posible.
-Antecedentes familiares: incluya los antecedentes familiares pertinentes. Evite documentar el historial médico de cada miembro de la familia del paciente.
-Historia social: Un acrónimo que puede usarse aquí es HEADSS, que significa Hogar y Medio Ambiente; Educación, Empleo, Alimentación; Actividades; Drogas; Sexualidad; y Suicidio/Depresión.
-Revisión de sistemas (ROS)
+- **Historial médico:** condiciones médicas actuales o pasadas pertinentes
+
+- **Historial quirúrgico:** intente incluir el año de la cirugía y el cirujano si es posible.
+ 
+- **Antecedentes familiares:** incluya los antecedentes familiares pertinentes. Evite documentar el historial médico de cada miembro de la familia del paciente.
+  
+- **Historia social:** Se consideran toda la parte social del paciente a saber Hogar y Medio Ambiente; Educación, Empleo, Alimentación; Actividades; Drogas; Sexualidad; y Suicidio/Depresión.
+
+**Revisión de sistemas (RDS)**
 
 Se trata de una lista de preguntas basada en un sistema que ayuda a descubrir síntomas que el paciente no menciona de otro modo.
 
-General: Pérdida de peso, disminución del apetito.
-Gastrointestinales: Dolor abdominal, hematoquecia.
-Músculoesquelético: Dolor en el dedo del pie, disminución del rango de movimiento del hombro derecho.
-Medicamentos actuales, alergias
+- **General:** Pérdida de peso, disminución del apetito.
+  
+- **Gastrointestinales:** Dolor abdominal, samgre en la heces(hematoquecia).
+
+- **Músculoesquelético:** Dolor en el dedo del pie, disminución del rango de movimiento del hombro derecho.
+
+**Medicamentos actuales, alergias**
 
 Los medicamentos actuales y las alergias pueden aparecer en las secciones Subjetivo u Objetivo. Sin embargo, es importante que, junto con cualquier medicamento documentado, se incluya el nombre del medicamento, la dosis, la vía de administración y la frecuencia. 
 
-Ejemplo: Motrin 600 mg por vía oral cada 4 a 6 horas durante 5 días
+- **Ejemplo:** Ibuprofeno 600 mg por vía oral cada 4 a 6 horas durante 5 días
 
-### Objetivo
+### O-Objetivo
 
 En esta sección se documentan los datos objetivos del encuentro con el paciente, que incluyen:
 
@@ -89,11 +95,11 @@ Un error común es distinguir entre síntomas y signos. Los síntomas son la des
 
 Esta sección documenta la síntesis de la evidencia “subjetiva” y “objetiva” para llegar a un diagnóstico. Se trata de la evaluación del estado del paciente a través del análisis del problema, la posible interacción de los problemas y los cambios en el estado de los problemas. Los elementos incluyen lo siguiente.
 
-Problema
+**Problema**
 
 Enumere la lista de problemas en orden de importancia. Un problema suele denominarse diagnóstico.
 
-Diagnóstico diferencial
+**Diagnóstico diferencial**
 
 Esta es una lista de los diferentes diagnósticos posibles, desde el más probable al menos probable, y el proceso de pensamiento detrás de esta lista. Aquí es donde se explica en profundidad el proceso de toma de decisiones. Debe incluirse la posibilidad de otros diagnósticos que pueden dañar al paciente, pero que son menos probables.
 
