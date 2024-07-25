@@ -3,7 +3,7 @@
 
 La nota **SOAP** es un acronimo (Subjective, Objective, Assessment, Plan,por sus siglas en Ingles)
 
-Este acronico representa un método de documentación ampliamente utilizado por los proveedores de atención médica. La nota SOAP es una forma en que los trabajadores de la salud pueden documentar de manera estructurada y organizada. 
+Este acronimo representa un método de documentación ampliamente utilizado por los proveedores de atención médica. La nota SOAP es una forma en que los trabajadores de la salud pueden documentar de manera estructurada y organizada. 
 
 El [Dr.Larry Weed](https://www.oslerproject.com/post/el-origen-de-la-historia-cl%C3%ADnica-orientada-por-problemas-y-el-m%C3%A9todo-soap) teorizó sobre esta nota SOAP estructural ampliamente adoptada hace casi 50 años. Recuerda a los médicos las tareas específicas y al mismo tiempo, 
 proporciona un marco para evaluar la información. También proporciona un marco cognitivo para el razonamiento clínico.
@@ -81,17 +81,23 @@ Los medicamentos actuales y las alergias pueden aparecer en las secciones Subjet
 
 ### O-Objetivo
 
-En esta sección se documentan los datos objetivos del encuentro con el paciente, que incluyen:
+Objetivo significa medible y observable.En esta sección se documentan los datos objetivos del encuentro con el paciente, que incluyen:
 
-Signos vitales
-Hallazgos del examen físico
-Datos de laboratorio
-Resultados de las imágenes
-Otros datos de diagnóstico
-Reconocimiento y revisión de la documentación de otros clínicos.
+- **Signos vitales**
+
+- **Hallazgos del examen físico**
+
+- **Datos de laboratorio**
+
+- **Resultados de las imágenes**
+
+- **Otros datos de diagnóstico**
+
+- **Reconocimiento y revisión de la documentación de otros clínicos.**
+
 Un error común es distinguir entre síntomas y signos. Los síntomas son la descripción subjetiva del paciente y deben documentarse bajo el encabezado subjetivo, mientras que un signo es un hallazgo objetivo relacionado con el síntoma asociado informado por el paciente. Un ejemplo de esto es un paciente que dice que tiene "dolor de estómago", que es un síntoma, documentado bajo el encabezado subjetivo. En comparación con "sensibilidad abdominal a la palpación", un signo objetivo documentado bajo el encabezado objetivo.
 
-###  Assessment o Evaluación en esapañol
+###  A-Assessment o Evaluación en esapañol
 
 Esta sección documenta la síntesis de la evidencia “subjetiva” y “objetiva” para llegar a un diagnóstico. Se trata de la evaluación del estado del paciente a través del análisis del problema, la posible interacción de los problemas y los cambios en el estado de los problemas. Los elementos incluyen lo siguiente.
 
@@ -103,19 +109,24 @@ Enumere la lista de problemas en orden de importancia. Un problema suele denomin
 
 Esta es una lista de los diferentes diagnósticos posibles, desde el más probable al menos probable, y el proceso de pensamiento detrás de esta lista. Aquí es donde se explica en profundidad el proceso de toma de decisiones. Debe incluirse la posibilidad de otros diagnósticos que pueden dañar al paciente, pero que son menos probables.
 
-Ejemplo: Problema 1, Diagnósticos diferenciales, Discusión, Plan para el problema 1 (descrito en el plan a continuación). Repetir para problemas adicionales
-Plan
+- **Ejemplo:** Problema 1, Diagnósticos diferenciales, Discusión, Plan para el problema 1 (descrito en el plan a continuación). Repetir para problemas adicionales
+  
+### PPlan
 
 En esta sección se detalla la necesidad de realizar pruebas adicionales y consultar con otros médicos para abordar las enfermedades del paciente. También se abordan las medidas adicionales que se deben tomar para tratar al paciente. Esta sección ayuda a los futuros médicos a comprender qué es lo que se debe hacer a continuación. Para cada problema:
 
 Indique qué pruebas son necesarias y la razón para elegir cada prueba para resolver ambigüedades diagnósticas; idealmente, cuál sería el siguiente paso si el resultado es positivo o negativo.
-Terapia necesaria (medicamentos)
-Derivaciones o consultas a especialistas
-Educación y asesoramiento al paciente
+
+- Terapia necesaria (medicamentos)
+
+- Derivaciones o consultas a especialistas
+
+- Educación y asesoramiento al paciente
+
 Una nota SOAP completa debe tener en cuenta toda la información subjetiva y objetiva y evaluarla con precisión para crear la evaluación y el plan específicos para el paciente.
 
 
-Significación clínica
+### Significación clínica
 
 La documentación médica hoy en día satisface múltiples necesidades y, como resultado, las notas médicas se han expandido tanto en longitud como en
 amplitud en comparación con hace cincuenta años. Las notas médicas han evolucionado hacia la documentación electrónica para satisfacer estas 
