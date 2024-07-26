@@ -1,4 +1,4 @@
-![Portada Registros medicos electronico]()
+![Portada Registros medicos electronico](https://github.com/lmorenosilva/zanahoriaTech/blob/main/Healthcare%20Professional%20Portrait%20small.jpg)
 
 
 
