@@ -2,7 +2,7 @@ La verdad sin compasion es crueldad
 
 # ¿Qué son las plantillas EHR?
 
-![personal de salud en reunion ](https://github.com/lmorenosilva/zanahoriaTech/blob/main/Healthcare%20Professionals%20in%20Discussionsmall.jpg)
+![personal de salud en reunion ]()
 
 Las plantillas de registros médicos electrónicos son formularios personalizables que ayudan a los proveedores a recopilar, presentar y organizar datos clínicos. Cuando se utilizan adecuadamente, las plantillas pueden reducir la cantidad de tiempo que se necesita para escribir y ayudar a los médicos a dedicar menos tiempo a la documentación y más tiempo a los pacientes.
 
