@@ -2,9 +2,9 @@
 
 
 
-# Las plantillas de  estructuradas de los Registros Medicos Electronicos RME (o Electronic Health Record (EHR) por sus siglas en ingles )
+# Las plantillas de  estructuradas de Registros Medicos Electronicos RME (o Electronic Health Record (EHR) por sus siglas en ingles )
 
-Las plantillas de EHR estructuradas pueden variar según el software y la especialidad específicos, pero aquí hay algunos ejemplos generales:
+Las plantillas de RME estructuradas pueden variar según el software y la especialidad específicos, pero aquí hay algunos ejemplos generales:
 
 ### 1. Historial de enfermedad actual (HPI):
 
