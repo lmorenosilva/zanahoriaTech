@@ -49,19 +49,19 @@ Las plantillas de RME estructuradas pueden variar según el software y la especi
 - **4. Examen físico:**
  
 - **Signos vitales:** campos para el ingreso manual de temperatura, presión arterial, pulso, frecuencia respiratoria y saturación de oxígeno.
-- 
+
 - **General:** opciones de selección para la apariencia general (p. ej., bien nutrido, mal aspecto).
-- 
+
 - **Cabeza, ojos, oídos, nariz, garganta (HEENT):** opciones de selección para hallazgos normales o anormales en cada categoría.
-- 
+
 - **Cardiovascular:** opciones de selección para hallazgos normales o anormales en frecuencia, ritmo y soplos cardíacos.
-- 
+  
 - **Respiratorio:** opciones de selección para hallazgos normales o anormales en los ruidos respiratorios y la expansión de la pared torácica.
-- 
+
 - **Abdomen:** Opciones de selección para hallazgos normales o anormales en dolor, sensibilidad, masas y ruidos intestinales.
-- 
+
 - **Neurológico:** opciones de selección para hallazgos normales o anormales en el estado mental, reflejos y coordinación.
-- 
+
 - **Musculoesquelético:** opciones de selección para hallazgos normales o anormales en el rango de movimiento y dolor en las articulaciones.
   
 Estos son sólo algunos ejemplos y los elementos específicos dentro de una plantilla variarán según la situación. Sin embargo, ilustran el concepto central de las plantillas estructuradas de HCE: proporcionar un formato estandarizado para capturar datos clínicos y al mismo tiempo permitir flexibilidad para detalles específicos.
