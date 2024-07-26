@@ -1,4 +1,8 @@
-# Las plantillas de Electronic Health Record EHR estructuradas
+![Portada Registros medicos electronico]()
+
+
+
+# Las plantillas de  estructuradas de los Registros Medicos Electronicos RME (o Electronic Health Record (EHR) por sus siglas en ingles )
 
 Las plantillas de EHR estructuradas pueden variar según el software y la especialidad específicos, pero aquí hay algunos ejemplos generales:
 
